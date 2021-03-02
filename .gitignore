@@ -1,0 +1,13 @@
+# General Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+env/
+
+# Anything
+.DS_Store
+data/tmp/*
+!data/tmp/.gitkeep
